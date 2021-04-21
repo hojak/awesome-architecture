@@ -1,4 +1,6 @@
-# Awesome Architecture
+# Awesome Architecture 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 
 A collection of awesome references regarding Software Architecture.
 
