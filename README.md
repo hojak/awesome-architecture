@@ -49,7 +49,7 @@ A collection of awesome references regarding Software Architecture.
 
 * [BPMN Modeler (Free) for Confluence Cloud](https://marketplace.atlassian.com/apps/1215543/bpmn-modeler-free?hosting=server&tab=overview)
 
-* [Code Scene](https://codescene.io)
+* [Code Scene](https://codescene.io) *Source code analyzer which specializes on analyzing team dynamics from vcs data*  
 
 * [Enterprise Architect](https://sparxsystems.com/products/ea/shop/index.html)
 
