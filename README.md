@@ -9,6 +9,7 @@ A collection of awesome references regarding Software Architecture.
   * [Podcasts](#podcasts)
   * [Modeling and Documentation](#modeling-and-documentation)
   * [Software Tools](#software-tools)
+  * [Lists of Recommended Books](#lists-of-recommended-books)
 * [Domain Driven Design](#domain-driven-design)
 * [Architecture Evaluation](#architecture-evaluation)
 * [Microservice and Self Contained Systems Architecture](#microservice-and-self-contained-systems-architecture)
