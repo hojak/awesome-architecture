@@ -11,16 +11,21 @@ A collection of awesome references regarding Software Architecture.
   * [Software Tools](#software-tools)
 * [Domain Driven Design](#domain-driven-design)
 * [Architecture Evaluation](#architecture-evaluation)
+* [Microservice and Self Contained Systems Architecture](#microservice-and-self-contained-systems-architecture)
 
 ## General Architecture Topics
 
-### Curricula, Training Providers and Consultancies
+* [International Software Architecture Qualification Board (iSAQB)](https://www.isaqb.org/) *The International Standard in Training and Certification of Software Architects*
 
-* [International Software Architecture Qualification Board (iSAQB)](https://www.isaqb.org/)
+### Consulting and Training Services
+
 * [innoq](https://www.innoq.com/de/)
 * [embarc Software Consulting GmbH](https://www.embarc.de/)
 * [oose Informatik GmbH](https://www.oose.de/)
 * [WPS Work Place Solutions](https://www.wps.de/en/)
+
+### Traininig Providers and Conference Hosts
+
 * [Software Architecture Camp](https://software-architecture-camp.de/)
 * [S&S Software & Support Media](https://sandsmedia.com/en/home/)
 
@@ -66,6 +71,12 @@ A collection of awesome references regarding Software Architecture.
 
 * [Structure101](https://structure101.com/) - [Structure101 developer guide](http://structure101.com/help/dev/)
 
+### Lists of Recommended Books
+
+* iSAQB: [Empfohlene Literatur](https://www.isaqb.org/de/zertifizierungen/literatur/) *Literature on software architecture recommended by the international Software Architecture Qualification Board*
+
+* Grady Booch: [Books](https://handbookofsoftwarearchitecture.com/books/) in [Handbook of Software Architecture](https://handbookofsoftwarearchitecture.com/) *Grady Booch's list of books on software architecture*
+
 ## Domain Driven Design
 
 ### Training Courses
@@ -96,7 +107,7 @@ A collection of awesome references regarding Software Architecture.
 
 ### Training Courses
 
-* [ Learning about classical architecture evaluation](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/arceval-architecture-evaluation/)
+* [Learning about classical architecture evaluation](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/arceval-architecture-evaluation/)
 
 ### Web Links
 
@@ -120,3 +131,15 @@ A collection of awesome references regarding Software Architecture.
 * Jane Cleland-Huang and Mark Denne: [Software by Numbers Low-Risk, High-Return Development](https://www.oreilly.com/library/view/software-by-numbers/0131407287/), Sun Microsystems Press, 2004
 
 * Tom DeMarco, Timothy Lister: [Waltzing with Bears: Managing Risk on Software Projects](https://books.google.de/books?id=NVgUAAAAQBAJ&printsec=frontcover#v=onepage&q&f=false), Addison-Wesley Professional, 2013
+
+## Microservice and Self Contained Systems Architecture
+
+### Training Courses
+
+* [Modul FLEX - Flexible Architekturen: Microservices, Self-contained Systems und Continuous Delivery (German)](https://software-architecture-camp.de/isaqb-advanced-level/modul-flex-flexible-architekturen-microservices-self-contained-systems-und-continuous-delivery/) *A training course on modern web service architecture (gives iSAQB CPSA-AL credits)*
+
+### Web Links
+
+* Eberhard Wolff: [Technologies for Microservices](https://jaxlondon.com/blog/technologies-for-microservices/) *Blog article with link collection about general microservice technologies*
+* Eberhard Wolff: [Microservice Rezepte (German)](https://docplayer.org/166396396-Eberhard-wolff.html) *Brochure on technology receipes to implement microservices*
+* Eberhard Wolff: [github / ewolff / scs-esi](https://github.com/ewolff/SCS-ESI) *Example: Frontend integration for Self Contained Systems using Varnish*
