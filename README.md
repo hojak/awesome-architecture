@@ -4,15 +4,32 @@
 
 A collection of awesome references regarding Software Architecture.
 
-* [General Architecture Topics](#general-architecture-topics)
-  * [Curricula, Training Providers and Consultancies](#curricula,-training-providers-and-consultancies)
-  * [Podcasts](#podcasts)
-  * [Modeling and Documentation](#modeling-and-documentation)
-  * [Software Tools](#software-tools)
-  * [Lists of Recommended Books](#lists-of-recommended-books)
-* [Domain Driven Design](#domain-driven-design)
-* [Architecture Evaluation](#architecture-evaluation)
-* [Microservice and Self Contained Systems Architecture](#microservice-and-self-contained-systems-architecture)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [General Architecture Topics](#general-architecture-topics)
+    - [Consulting and Training Services](#consulting-and-training-services)
+    - [Traininig Providers and Conference Hosts](#traininig-providers-and-conference-hosts)
+    - [Podcasts](#podcasts)
+    - [Articles](#articles)
+    - [Modeling and Documentation](#modeling-and-documentation)
+    - [Software Tools](#software-tools)
+    - [Lists of Recommended Books](#lists-of-recommended-books)
+  - [Domain Driven Design](#domain-driven-design)
+    - [Training Courses](#training-courses)
+    - [Audio](#audio)
+    - [Web-Links](#web-links)
+    - [Books on DDD](#books-on-ddd)
+  - [Architecture Evaluation](#architecture-evaluation)
+    - [Training Courses](#training-courses-1)
+    - [Web Links](#web-links)
+    - [Books](#books)
+  - [Microservice and Self Contained Systems Architecture](#microservice-and-self-contained-systems-architecture)
+    - [Training Courses](#training-courses-2)
+    - [Web Links](#web-links-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## General Architecture Topics
 
@@ -35,6 +52,12 @@ A collection of awesome references regarding Software Architecture.
 * [Conversations about Software Architecture (CASE Podcast)](https://www.case-podcast.org/)
 * [heise Software ArchitekTOUR Podcast (German)](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
 * [INNOQ Podcast (German)](https://www.innoq.com/en/podcast/)
+
+### Articles
+
+* [embarc: Architekturspicker](https://www.embarc.de/architektur-spicker/) - Short summaries of different aspects of software architecture.
+
+* [innoq: Primer](https://www.innoq.com/en/topics/primer/) - Quick introduction into different aspects of software architecture.
 
 ### Modeling and Documentation
 
@@ -72,11 +95,13 @@ A collection of awesome references regarding Software Architecture.
 
 * [Structure101](https://structure101.com/) - [Structure101 developer guide](http://structure101.com/help/dev/)
 
-### Lists of Recommended Books
+### Lists of Recommended Books and Authors
 
-* iSAQB: [Empfohlene Literatur](https://www.isaqb.org/de/zertifizierungen/literatur/) *Literature on software architecture recommended by the international Software Architecture Qualification Board*
+* iSAQB: [Empfohlene Literatur](https://www.isaqb.org/de/zertifizierungen/literatur/) - Literature on software architecture recommended by the international Software Architecture Qualification Board.
 
-* Grady Booch: [Books](https://handbookofsoftwarearchitecture.com/books/) in [Handbook of Software Architecture](https://handbookofsoftwarearchitecture.com/) *Grady Booch's list of books on software architecture*
+* Grady Booch: [Books](https://handbookofsoftwarearchitecture.com/books/) in [Handbook of Software Architecture](https://handbookofsoftwarearchitecture.com/) - Grady Booch's list of books on software architecture.
+
+* [Eberhard Wolff](https://ewolff.com/)
 
 ## Domain Driven Design
 
@@ -118,7 +143,7 @@ A collection of awesome references regarding Software Architecture.
 
 * [Riskology - The simulation from „Waltzing with Bears“](https://systemsguild.eu/riskology)
 
-* [Troy Meggenis on Statistics](https://github.com/FocusedObjective/FocusedObjective.Resources/tree/master/Spreadsheets) *almost anything you could like to have in an approachable format*
+* [Troy Meggenis on Statistics](https://github.com/FocusedObjective/FocusedObjective.Resources/tree/master/Spreadsheets) - almost anything you could like to have in an approachable format.
 
 * [Architecture Evaluation (in German)](https://www.embarc.de/architektur-spicker/)
 
@@ -137,7 +162,7 @@ A collection of awesome references regarding Software Architecture.
 
 ### Training Courses
 
-* [Modul FLEX - Flexible Architekturen: Microservices, Self-contained Systems und Continuous Delivery (German)](https://software-architecture-camp.de/isaqb-advanced-level/modul-flex-flexible-architekturen-microservices-self-contained-systems-und-continuous-delivery/) *A training course on modern web service architecture (gives iSAQB CPSA-AL credits)*
+* [Modul FLEX - Flexible Architekturen: Microservices, Self-contained Systems und Continuous Delivery (German)](https://software-architecture-camp.de/isaqb-advanced-level/modul-flex-flexible-architekturen-microservices-self-contained-systems-und-continuous-delivery/) - A training course on modern web service architecture (gives iSAQB CPSA-AL credits).
 
 ### Web Links
 
