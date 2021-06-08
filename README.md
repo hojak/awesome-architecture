@@ -8,26 +8,28 @@ A collection of awesome references regarding Software Architecture.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-  - [General Architecture Topics](#general-architecture-topics)
-    - [Consulting and Training Services](#consulting-and-training-services)
-    - [Traininig Providers and Conference Hosts](#traininig-providers-and-conference-hosts)
-    - [Podcasts](#podcasts)
-    - [Articles](#articles)
-    - [Modeling and Documentation](#modeling-and-documentation)
-    - [Software Tools](#software-tools)
-    - [Lists of Recommended Books](#lists-of-recommended-books)
-  - [Domain Driven Design](#domain-driven-design)
-    - [Training Courses](#training-courses)
-    - [Audio](#audio)
-    - [Web-Links](#web-links)
-    - [Books on DDD](#books-on-ddd)
-  - [Architecture Evaluation](#architecture-evaluation)
-    - [Training Courses](#training-courses-1)
-    - [Web Links](#web-links)
-    - [Books](#books)
-  - [Microservice and Self Contained Systems Architecture](#microservice-and-self-contained-systems-architecture)
-    - [Training Courses](#training-courses-2)
-    - [Web Links](#web-links-1)
+- [General Architecture Topics](#general-architecture-topics)
+  - [Consulting and Training Services](#consulting-and-training-services)
+  - [Traininig Providers and Conference Hosts](#traininig-providers-and-conference-hosts)
+  - [Podcasts](#podcasts)
+  - [Articles](#articles)
+  - [Modeling and Documentation](#modeling-and-documentation)
+  - [Architectural Katas](#architectural-katas)
+  - [Evolutionary Architecture](#evolutionary-architecture)
+  - [Software Tools](#software-tools)
+  - [Lists of Recommended Books and Authors](#lists-of-recommended-books-and-authors)
+- [Domain Driven Design](#domain-driven-design)
+  - [Training Courses](#training-courses)
+  - [Audio](#audio)
+  - [Web-Links](#web-links)
+  - [Books on DDD](#books-on-ddd)
+- [Architecture Evaluation](#architecture-evaluation)
+  - [Training Courses](#training-courses-1)
+  - [Web Links](#web-links)
+  - [Books](#books)
+- [Microservice and Self Contained Systems Architecture](#microservice-and-self-contained-systems-architecture)
+  - [Training Courses](#training-courses-2)
+  - [Web Links](#web-links-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -50,23 +52,48 @@ A collection of awesome references regarding Software Architecture.
 ### Podcasts
 
 * [Conversations about Software Architecture (CASE Podcast)](https://www.case-podcast.org/)
+
 * [heise Software ArchitekTOUR Podcast (German)](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
+
 * [INNOQ Podcast (German)](https://www.innoq.com/en/podcast/)
 
 ### Articles
 
+* Eberhard Wolff: [Software-Architektur: Worauf es ankommt](https://www.innoq.com/de/articles/2020/01/grundlagen-fuer-software-architektur/)
+
 * [embarc: Architekturspicker](https://www.embarc.de/architektur-spicker/) - Short summaries of different aspects of software architecture.
 
 * [innoq: Primer](https://www.innoq.com/en/topics/primer/) - Quick introduction into different aspects of software architecture.
+
+* [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar) - An opinionated guide to technology frontiers.
 
 ### Modeling and Documentation
 
 * Gernot Starke et al.: [arc42 Template](https://arc42.org/documentation/)
   * Gernot Starke et al.: [arc42 Documentation](https://docs.arc42.org/home/)
   * Stefan Zörner: [DokChess als Beispiel für arc42](https://www.dokchess.de/)
+  * Stefan Zörner: [Konzept oder Entscheidung in arc42?](https://www.embarc.de/abheften-mit-arc42-fuer-fortgeschrittene-konzept-oder-entscheidung/)
 
 * Simon Brown: [The C4 Model for Visualizing Software Architecture](https://c4model.com/)
   * Phillip Beauvoir & Jean-Baptiste Sarrodie: [C4 Model, Architecture Viewpoint and Archi 4.7](https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/)
+
+### Architectural Katas
+
+* [Architectural Katas](http://fundamentalsofsoftwarearchitecture.com/katas/) - Exercise being a Software Architect.
+
+* Neal Ford: [Architectural Katas](https://nealford.com/katas/) - Katas curated by Neal Ford.
+
+* [Google User Group: ArchitecturalKatas](https://groups.google.com/g/architecturalkatas) - Organize or discuss architectural katas.
+
+* (Katas are down, error 410) Ted Neward: [Architectural Katas](https://archkatas.herokuapp.com/index.html) - Reference to the original materials - unfortunately the katas are down, probably due to an outdated bitbucket API reference.
+
+### Evolutionary Architecture
+
+* Neal Ford, Rebecca Parsons, Patrick Kua: [Building Evolutionary Architecture](https://evolutionaryarchitecture.com/), O'Reilly Media, Inc., 09/2017, ISBN: 9781491986363
+
+* Paula Paul, Rosemary Wang: [Fitness function-driven development](https://www.thoughtworks.com/de/insights/articles/fitness-function-driven-development) - Overview and tips on how to start.
+
+* Neal Ford, Rebecca Parsons, Patrick Kua: [Fitness Function Katas](http://evolutionaryarchitecture.com/ffkatas/)
 
 ### Software Tools
 
