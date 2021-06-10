@@ -35,7 +35,7 @@ A collection of awesome references regarding Software Architecture.
 
 ## General Architecture Topics
 
-* [International Software Architecture Qualification Board (iSAQB)](https://www.isaqb.org/) *The International Standard in Training and Certification of Software Architects*
+* [International Software Architecture Qualification Board (iSAQB)](https://www.isaqb.org/) - The International Standard in Training and Certification of Software Architects.
 
 ### Consulting and Training Services
 
@@ -77,6 +77,10 @@ A collection of awesome references regarding Software Architecture.
 * Simon Brown: [The C4 Model for Visualizing Software Architecture](https://c4model.com/)
   * Phillip Beauvoir & Jean-Baptiste Sarrodie: [C4 Model, Architecture Viewpoint and Archi 4.7](https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/)
 
+* [PlantUML in a nutshell](https://plantuml.com/en/) - A quick overview on different UML / non-UML diagram types.
+
+* Kapitel 5.1 "Die Diagrammarten der UML2" in Gernot Starke: Effektive Softwarearchitekturen, Hanser Verlag, 5. überarbeitete Auflage, 2011. ISBN: 978-3-446-42728-0.
+
 ### Architectural Katas
 
 * [Architectural Katas](http://fundamentalsofsoftwarearchitecture.com/katas/) - Exercise being a Software Architect.
@@ -97,22 +101,24 @@ A collection of awesome references regarding Software Architecture.
 
 ### Software Tools
 
-* [ArchiMate](https://www.archimatetool.com/) *Open source modelling toolkit to create ArchiMate models and sketches. Used by thousands of Enterprise Architects throughout the world.*
+* [ArchiMate](https://www.archimatetool.com/) - Open source modelling toolkit to create ArchiMate models and sketches. Used by thousands of Enterprise Architects throughout the world.
 
-* [Axivion Suite](https://www.axivion.com/en/products/axivion-suite/) *Quantitative Software- and Architecture-Quality Analysis*
+* [Axivion Suite](https://www.axivion.com/en/products/axivion-suite/) - Quantitative Software- and Architecture-Quality Analysis.
 
 * [Bizagi Business Process Modeling](https://www.bizagi.com/?lang=en)
 
 * [BPMN Modeler (Free) for Confluence Cloud](https://marketplace.atlassian.com/apps/1215543/bpmn-modeler-free?hosting=server&tab=overview)
 
-* [Code Scene](https://codescene.io) *Source code analyzer which specializes on analyzing team dynamics from vcs data*  
+* [Code Scene](https://codescene.io) - Source code analyzer which specializes on analyzing team dynamics from vcs data*  
 
 * [Enterprise Architect](https://sparxsystems.com/products/ea/shop/index.html)
 
 * [docs as code](https://docs-as-co.de)
   * [docToolChain](https://doctoolchain.github.io/docToolchain/)
 
-* [Modelio](https://www.modelio.org/) *The open source modeling environment.*
+* [Workplace Solutios Domain Story Modeller](https://domainstorytelling.org/#dst-ddd) - Domain Story Modelling online.
+
+* [Modelio](https://www.modelio.org/) - The open source modeling environment.
 
 * [Sonargraph](https://www.hello2morrow.com)
 
@@ -132,19 +138,24 @@ A collection of awesome references regarding Software Architecture.
 
 ## Domain Driven Design
 
+### Tools
+
+* [Workplace Solutions Domain Story Modeler](https://www.wps.de/modeler/) - Online Domain Story Modeler by WPS.
+
 ### Training Courses
 
 * [Software Architecture Camp: Module DDD](https://software-architecture-camp.de/isaqb-advanced-level/modul-ddd-domain-driven-design/)
 
 ### Audio
 
-* [Podcast: Domain-driven Design (Part 1, German)[https://www.heise.de/developer/artikel/Episode-59-Domain-driven-Design-DDD-4300844.html] in * [heise Software ArchitekTOUR Podcast (German)](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html), episode 59
+* [Podcast: Domain-driven Design (Part 1, German)[https://www.heise.de/developer/artikel/Episode-59-Domain-driven-Design-DDD-4300844.html] in -  [heise Software ArchitekTOUR Podcast (German)](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html), episode 59
 
 ### Web-Links
 
 * [DDD Heuristics](https://dddheuristics.com)
+* [Domain Storytelling](https://domainstorytelling.org/#dst-ddd) - Describes what Domain Storytelling is and how to do it.
 * [Self-Contained Systems SCS](https://scs-architecture.org)
-* [Leasing Ninja](https://leasingninja.github.io) *Hands-On Example*
+* [Leasing Ninja](https://leasingninja.github.io) - Hands-On Example.
 
 ### Books on DDD
 
@@ -193,6 +204,6 @@ A collection of awesome references regarding Software Architecture.
 
 ### Web Links
 
-* Eberhard Wolff: [Technologies for Microservices](https://jaxlondon.com/blog/technologies-for-microservices/) *Blog article with link collection about general microservice technologies*
-* Eberhard Wolff: [Microservice Rezepte (German)](https://docplayer.org/166396396-Eberhard-wolff.html) *Brochure on technology receipes to implement microservices*
-* Eberhard Wolff: [github / ewolff / scs-esi](https://github.com/ewolff/SCS-ESI) *Example: Frontend integration for Self Contained Systems using Varnish*
+* Eberhard Wolff: [Technologies for Microservices](https://jaxlondon.com/blog/technologies-for-microservices/) - Blog article with link collection about general microservice technologies.
+* Eberhard Wolff: [Microservice Rezepte (German)](https://docplayer.org/166396396-Eberhard-wolff.html) - Brochure on technology receipes to implement microservices.
+* Eberhard Wolff: [github / ewolff / scs-esi](https://github.com/ewolff/SCS-ESI) - Example: Frontend integration for Self Contained Systems using Varnish.
