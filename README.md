@@ -46,6 +46,7 @@ A collection of awesome references regarding Software Architecture.
 
 ### Traininig Providers and Conference Hosts
 
+* [socreatory - The Software Creators' Academy](https://www.socreatory.com/) - a collaboration of embarc and INNOQ.
 * [Software Architecture Camp](https://software-architecture-camp.de/)
 * [S&S Software & Support Media](https://sandsmedia.com/en/home/)
 
