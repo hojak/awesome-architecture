@@ -69,6 +69,9 @@ A collection of awesome references regarding Software Architecture.
 
 ### Modeling and Documentation
 
+* Stefan Zörner: [Architektur ohne Firlefanz - Ihre Lösung auf einem Bierdeckel](https://www.informatik-aktuell.de/entwicklung/methoden/architektur-ohne-firlefanz-ihre-loesung-auf-einem-bierdeckel.html) - How a minimal architecture documentation can look like (in German).
+  * Falk Sippach: [Corona-Warn-App unter der Lupe](https://www.embarc.de/cwa-unter-der-lupe/) - The German Corona Warn App System as an example for minimal architecture documentation (in German).
+
 * Gernot Starke et al.: [arc42 Template](https://arc42.org/documentation/)
   * Gernot Starke et al.: [arc42 Documentation](https://docs.arc42.org/home/)
   * Stefan Zörner: [DokChess als Beispiel für arc42](https://www.dokchess.de/)
