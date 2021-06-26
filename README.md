@@ -119,6 +119,12 @@ A collection of awesome references regarding Software Architecture.
 
 * [docs as code](https://docs-as-co.de)
   * [docToolChain](https://doctoolchain.github.io/docToolchain/)
+  * [docToolchain: How to install docToolchain](https://doctoolchain.github.io/docToolchain/#_how_to_install_doctoolchain) - How to setup docToolchain and a new arc42 based documentation folder.
+  * [AsciiDoctor Writer's Guide](https://asciidoctor.org/docs/asciidoc-writers-guide/) - Gentle introduction to AsciiDoc.
+  * [AsciiDoc Syntax Quick Reference](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/)
+  * [AsciiDoc Language Documentation](https://docs.asciidoctor.org/asciidoc/latest/) - Detailed reference manual.
+  * [AsciiDoctor Skins (CSS)](https://github.com/darshandsoni/asciidoctor-skins)
+  * [AsciiDoctor PDF Theming Guide](https://github.com/asciidoctor/asciidoctor-pdf/blob/v1.5.4/docs/theming-guide.adoc)
 
 * [Workplace Solutios Domain Story Modeller](https://domainstorytelling.org/#dst-ddd) - Domain Story Modelling online.
 
