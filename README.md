@@ -130,6 +130,9 @@ A collection of awesome references regarding Software Architecture.
 
 * [Modelio](https://www.modelio.org/) - The open source modeling environment.
 
+* [PlantUML](https://plantuml.com) - Draw diagrams from text description
+  * [PlantText UML Editor](https://www.planttext.com/) - Online editor and renderer for [PlantUML](https://plantuml.com).
+
 * [Sonargraph](https://www.hello2morrow.com)
 
 * [Structurizr](https://structurizr.com/)
