@@ -18,6 +18,7 @@ A collection of awesome references regarding Software Architecture.
   - [Evolutionary Architecture](#evolutionary-architecture)
   - [Software Tools](#software-tools)
   - [Lists of Recommended Books and Authors](#lists-of-recommended-books-and-authors)
+- [Architecture Principles and Patterns](#architecture-principles-and-patterns)
 - [Domain Driven Design](#domain-driven-design)
   - [Training Courses](#training-courses)
   - [Audio](#audio)
@@ -148,6 +149,12 @@ A collection of awesome references regarding Software Architecture.
 * Grady Booch: [Books](https://handbookofsoftwarearchitecture.com/books/) in [Handbook of Software Architecture](https://handbookofsoftwarearchitecture.com/) - Grady Booch's list of books on software architecture.
 
 * [Eberhard Wolff](https://ewolff.com/)
+
+## Architecture Principles and Patterns
+
+* [12factors.net](https://12factor.net/) - A methodology for building software-as-a-service apps.
+* [Independent Systems Architecture](https://isa-principles.org/) - best practices based on experience in particular with microservices and Self-contained Systems and the challenges faced in those projects.
+* [Self-Contained Systems (SCS)](https://scs-architecture.org)
 
 ## Domain Driven Design
 
