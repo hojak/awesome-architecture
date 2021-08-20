@@ -69,6 +69,11 @@ A collection of awesome references regarding Software Architecture.
 
 * [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar) - An opinionated guide to technology frontiers.
 
+### Enterprise Architecture, Organization Development
+
+* [Game storming](https://gamestorming.com/) - Co-Creation Tools used by innovators around the world.
+* [cards42.org](https://cards42.org/) - Cards for Analyzing and Reflecting on Doomed Software.
+
 ### Modeling and Documentation
 
 * Stefan Zörner: [Architektur ohne Firlefanz - Ihre Lösung auf einem Bierdeckel](https://www.informatik-aktuell.de/entwicklung/methoden/architektur-ohne-firlefanz-ihre-loesung-auf-einem-bierdeckel.html) - How a minimal architecture documentation can look like (in German).
