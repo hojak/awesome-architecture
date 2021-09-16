@@ -37,6 +37,10 @@ A collection of awesome references regarding Software Architecture.
 ## General Architecture Topics
 
 * [International Software Architecture Qualification Board (iSAQB)](https://www.isaqb.org/) - The International Standard in Training and Certification of Software Architects.
+* [The (new) Software Architecture Foundation Curriculum](https://www.isaqb.org/de/blog/the-new-software-architecture-foundation-curriculum/) - Summary about what Software Architects should learn, including lots of references.
+  * [Certified Professional for Software Architecture® (CPSA)](https://isaqb-org.github.io/) - Individual curricula for the CPSA-F and the advanced level courses.
+  * [The iSAQB® Blog](https://www.isaqb.org/isaqb-blog/)
+
 
 ### Consulting and Training Services
 
@@ -136,6 +140,8 @@ A collection of awesome references regarding Software Architecture.
 
 * [Modelio](https://www.modelio.org/) - The open source modeling environment.
 
+* pandoc template [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - pandoc LaTeX template to convert your markdown files to PDF or LaTeX.
+
 * [PlantUML](https://plantuml.com) - Draw diagrams from text description
   * [PlantText UML Editor](https://www.planttext.com/) - Online editor and renderer for [PlantUML](https://plantuml.com).
 
@@ -151,7 +157,11 @@ A collection of awesome references regarding Software Architecture.
 
 * iSAQB: [Empfohlene Literatur](https://www.isaqb.org/de/zertifizierungen/literatur/) - Literature on software architecture recommended by the international Software Architecture Qualification Board.
 
+* [iSAQB References for Software Architecture](https://leanpub.com/isaqbreferences) - An extensive and annotate list of references (books, articles, links) regarding software architecture (and development).
+
 * Grady Booch: [Books](https://handbookofsoftwarearchitecture.com/books/) in [Handbook of Software Architecture](https://handbookofsoftwarearchitecture.com/) - Grady Booch's list of books on software architecture.
+
+* [iSAQB Glossary of Software Architecture Terminology](https://leanpub.com/isaqbglossary) - An extensive glossary of software architecture (and development) terminology.
 
 * [Eberhard Wolff](https://ewolff.com/)
 
