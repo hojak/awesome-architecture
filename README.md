@@ -94,11 +94,13 @@ A collection of awesome references regarding Software Architecture.
 - Simon Brown: [The C4 Model for Visualizing Software Architecture](https://c4model.com/)
   - Phillip Beauvoir & Jean-Baptiste Sarrodie: [C4 Model, Architecture Viewpoint and Archi 4.7](https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/)
 
+- [Agile Modeling](http://agilemodeling.com/) - Effective Practices for Modeling and Documentation.
+
 - oose Innovative Informatik GmbH: [UML 2.5 Notationsübersicht](https://www.oose.de/wp-content/uploads/2012/05/UML-Notations%C3%BCbersicht-2.5.pdf) - A short PDF with an example for each UML2.5 diagram type (in German).
 
-- [PlantUML in a nutshell](https://plantuml.com/en/) - A quick overview on different UML / non-UML diagram types.
-
-- Kapitel 5.1 "Die Diagrammarten der UML2" in Gernot Starke: Effektive Softwarearchitekturen, Hanser Verlag, 5. überarbeitete Auflage, 2011. ISBN: 978-3-446-42728-0.
+- [UML](https://wonderbird.github.io/pages/software-crafting/uml.html) - UML link collection.
+  - [PlantUML in a nutshell](https://plantuml.com/en/) - A quick overview on different UML / non-UML diagram types.
+  - Kapitel 5.1 "Die Diagrammarten der UML2" in Gernot Starke: Effektive Softwarearchitekturen, Hanser Verlag, 5. überarbeitete Auflage, 2011. ISBN: 978-3-446-42728-0.
 
 ### Architectural Katas
 
