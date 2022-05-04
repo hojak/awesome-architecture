@@ -88,6 +88,7 @@ A collection of awesome references regarding Software Architecture.
 
 - Gernot Starke et al.: [arc42 Template](https://arc42.org/documentation/)
   - Gernot Starke et al.: [arc42 Documentation](https://docs.arc42.org/home/)
+  - Gernot Starke: [Html Sanity Check as example for arc42](https://github.com/aim42/htmlSanityCheck#technical-documentation)
   - Stefan Zörner: [DokChess als Beispiel für arc42](https://www.dokchess.de/)
   - Stefan Zörner: [Konzept oder Entscheidung in arc42?](https://www.embarc.de/abheften-mit-arc42-fuer-fortgeschrittene-konzept-oder-entscheidung/)
 
@@ -137,6 +138,7 @@ A collection of awesome references regarding Software Architecture.
 - [docs as code](https://docs-as-co.de)
   - [docToolChain](https://doctoolchain.github.io/docToolchain/)
   - [docToolchain: How to install docToolchain](https://doctoolchain.github.io/docToolchain/#_how_to_install_doctoolchain) - How to setup docToolchain and a new arc42 based documentation folder.
+  - Gernot Starke: [Html Sanity Check](https://github.com/aim42/htmlSanityCheck)
   - [AsciiDoctor Writer's Guide](https://asciidoctor.org/docs/asciidoc-writers-guide/) - Gentle introduction to AsciiDoc.
   - [AsciiDoc Syntax Quick Reference](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/)
   - [AsciiDoc Language Documentation](https://docs.asciidoctor.org/asciidoc/latest/) - Detailed reference manual.
