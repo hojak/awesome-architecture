@@ -40,9 +40,10 @@ A collection of awesome references regarding Software Architecture.
 ## General Architecture Topics
 
 - [International Software Architecture Qualification Board (iSAQB)](https://www.isaqb.org/) - The International Standard in Training and Certification of Software Architects.
+  - [iSAQB-Community](https://www.meetup.com/de-DE/iSAQB-Community/) - A community for knowledge exchange among certified software architects - independent from commercial interests.
+  - [The iSAQB® Blog](https://www.isaqb.org/isaqb-blog/)
 - [The (new) Software Architecture Foundation Curriculum](https://www.isaqb.org/de/blog/the-new-software-architecture-foundation-curriculum/) - Summary about what Software Architects should learn, including lots of references.
   - [Certified Professional for Software Architecture® (CPSA)](https://isaqb-org.github.io/) - Individual curricula for the CPSA-F and the advanced level courses.
-  - [The iSAQB® Blog](https://www.isaqb.org/isaqb-blog/)
 
 ### Consulting and Training Services
 
