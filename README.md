@@ -104,6 +104,8 @@ A collection of awesome references regarding Software Architecture.
   - [PlantUML in a nutshell](https://plantuml.com/en/) - A quick overview on different UML / non-UML diagram types.
   - Kapitel 5.1 "Die Diagrammarten der UML2" in Gernot Starke: Effektive Softwarearchitekturen, Hanser Verlag, 5. überarbeitete Auflage, 2011. ISBN: 978-3-446-42728-0.
 
+- [Diagrams](https://diagrams.mingrammer.com/) - Diagrams lets you draw the cloud system architecture in Python code.
+
 ### Architectural Katas
 
 - [Architectural Katas](http://fundamentalsofsoftwarearchitecture.com/katas/) - Exercise being a Software Architect.
@@ -145,6 +147,8 @@ A collection of awesome references regarding Software Architecture.
   - [AsciiDoc Language Documentation](https://docs.asciidoctor.org/asciidoc/latest/) - Detailed reference manual.
   - [AsciiDoctor Skins (CSS)](https://github.com/darshandsoni/asciidoctor-skins)
   - [AsciiDoctor PDF Theming Guide](https://github.com/asciidoctor/asciidoctor-pdf/blob/v1.5.4/docs/theming-guide.adoc)
+  - [Asciidoctor reveal.js Documentation](https://docs.asciidoctor.org/reveal.js-converter/latest/) - transform an AsciiDoc document into an HTML5 presentation.
+    - Benjamin Schmid: [bentolor / java9to13](https://github.com/bentolor/java9to13) - a HTML5 Asciidoctor / Asciidoctor-RevealJS based presentation about everyting new and important since Java 8.
 
 - [Workplace Solutios Domain Story Modeller](https://domainstorytelling.org/#dst-ddd) - Domain Story Modelling online.
 
