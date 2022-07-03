@@ -83,6 +83,9 @@ A collection of awesome references regarding Software Architecture.
 
 ### Modeling and Documentation
 
+- [adr.github.io](https://adr.github.io/) - Homepage of the ADR GitHub organization.
+  - [Markdown Any Decision Record](https://adr.github.io/madr/) - a lean template to capture any decisions in a structured way.
+
 - Stefan Zörner: [So sieht’s aus! Architekturüberblicke – Tipps und Tricks](https://vimeo.com/161760966) - Talk about creating an architecture overview.
 - Stefan Zörner: [Architektur ohne Firlefanz - Ihre Lösung auf einem Bierdeckel](https://www.informatik-aktuell.de/entwicklung/methoden/architektur-ohne-firlefanz-ihre-loesung-auf-einem-bierdeckel.html) - How a minimal architecture documentation can look like (in German).
   - Falk Sippach: [Corona-Warn-App unter der Lupe](https://www.embarc.de/cwa-unter-der-lupe/) - The German Corona Warn App System as an example for minimal architecture documentation (in German).
